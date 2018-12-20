@@ -1,0 +1,4 @@
+.sass-cache
+node_modules
+# in favor of auto compiling style.scss and bootstrap.scss
+css/style.css

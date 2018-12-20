@@ -1,0 +1,18 @@
+$primary: #0099cc;
+
+$enable-rounded: false;
+$enable-shadows: false;
+$enable-gradients: true;
+
+$font-family-base: "Gotham-Light", sans-serif;
+$font-family-normal: "Gotham-Book", sans-serif;
+
+@import "bootstrap/bootstrap.scss";
+
+// make the font nice
+html, body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+// your styles here
+
